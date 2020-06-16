@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>947321100388-q0h5jp6rv9u6hig5c3qnuptfu2jaeeci.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.947321100388-q0h5jp6rv9u6hig5c3qnuptfu2jaeeci</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>947321100388-ll87tv4ollcc7j3astq4if4l1osc0gj2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD4guaYC-DgDKt5Ry_87q5ffup3-4jI6O0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>947321100388</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.muhammadali.buddiesgram</string>
+	<key>PROJECT_ID</key>
+	<string>socialnetwork-a9269</string>
+	<key>STORAGE_BUCKET</key>
+	<string>socialnetwork-a9269.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:947321100388:ios:3a98cedb709fcb21276771</string>
+	<key>DATABASE_URL</key>
+	<string>https://socialnetwork-a9269.firebaseio.com</string>
+</dict>
+</plist>
